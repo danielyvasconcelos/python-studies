@@ -9,30 +9,30 @@ O curso "Curso Completo de Python - do Zero ao Avançado (Masterclass)" abrange 
 - [x] Apresentação do Python (origem, motivação, características, aplicações).
 - [x] Instalação da Linguagem Python.
 - [x] Instalação e Configuração do Editor de Código (IDE/Editor de Textos).
-- [] Uso e configuração do **Visual Studio Code (VS Code)**.
-- [] Instalação de extensões do VS Code (Python, VS Code Icons, Code Runner).
-- [] Configuração do ambiente de projeto.
-- [] Alternativas de IDEs/Editores de Código (PyCharm, IDLE, Projeto Jupyter/Jupyter Lab, IDEs Online como Programs, Online GDB, Online Python).
-- [] Uso do Shell Interativo (REPL) e Scripts.
+- [x] Uso e configuração do **Visual Studio Code (VS Code)**.
+- [x] Instalação de extensões do VS Code (Python, VS Code Icons, Code Runner).
+- [x] Configuração do ambiente de projeto.
+- [x] Alternativas de IDEs/Editores de Código (PyCharm, IDLE, Projeto Jupyter/Jupyter Lab, IDEs Online como Programs, Online GDB, Online Python).
+- [x] Uso do Shell Interativo (REPL) e Scripts.
 
 ---
 
 ## 2. Fundamentos da Linguagem
 
-- [ ] Variáveis em Python.
-  - [ ] Nomenclatura e convenções.
-  - [ ] Atribuição de valores (incluindo atribuição múltipla).
-- [ ] Tipos de Dados em Python (Classes).
-  - [ ] Tipos Primitivos: **Inteiro** (int), **Ponto Flutuante/Real** (float), **String/Caractere** (str), **Lógico/Booleano** (bool).
-  - [ ] Tipos Adicionais: **Número Complexo** (complex).
-  - [ ] Verificação de Tipos com as funções `type()` e `is instance()`.
-- [ ] Função `print()`.
-  - [ ] Sintaxe e exibição de dados.
-  - [ ] Uso de argumentos posicionais.
-  - [ ] Concatenação de strings.
-  - [ ] Uso do argumento `end` para controle de quebra de linha.
-  - [ ] Formatação de strings com `format()`.
-  - [ ] Uso de f-strings (Formatted String Literals).
+- [x] Variáveis em Python.
+  - [x] Nomenclatura e convenções.
+  - [x] Atribuição de valores (incluindo atribuição múltipla).
+- [x] Tipos de Dados em Python (Classes).
+  - [x] Tipos Primitivos: **Inteiro** (int), **Ponto Flutuante/Real** (float), **String/Caractere** (str), **Lógico/Booleano** (bool).
+  - [x] Tipos Adicionais: **Número Complexo** (complex).
+  - [x] Verificação de Tipos com as funções `type()` e `is instance()`.
+- [x] Função `print()`.
+  - [x] Sintaxe e exibição de dados.
+  - [x] Uso de argumentos posicionais.
+  - [x] Concatenação de strings.
+  - [x] Uso do argumento `end` para controle de quebra de linha.
+  - [x] Formatação de strings com `format()`.
+  - [] Uso de f-strings (Formatted String Literals).
   - [ ] Caracteres de escape (`\n`, `\t`, `\\`).
 
 ---
