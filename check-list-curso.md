@@ -32,28 +32,32 @@ O curso "Curso Completo de Python - do Zero ao Avançado (Masterclass)" abrange 
   - [x] Concatenação de strings.
   - [x] Uso do argumento `end` para controle de quebra de linha.
   - [x] Formatação de strings com `format()`.
-  - [] Uso de f-strings (Formatted String Literals).
-  - [ ] Caracteres de escape (`\n`, `\t`, `\\`).
+  - [x] Uso de f-strings (Formatted String Literals).
+  - [x] Caracteres de escape (`\n`, `\t`, `\\`).
 
 ---
+- [x] Captura de entrada do usuário com `input()` e conversão de tipo (Casting: `int()`).
 
-## 3. Operadores e Estruturas de Controle
+## 3. Operadores
+- [x] Operadores Aritméticos.
+  - [x] Soma, subtração, multiplicação, divisão real.
+  - [x] Divisão inteira, Módulo (resto da divisão), Potenciação.
+  - [x] Ordem de Precedência.
 
-- [ ] Operadores Aritméticos.
-  - [ ] Soma, subtração, multiplicação, divisão real.
-  - [ ] Divisão inteira, Módulo (resto da divisão), Potenciação.
-  - [ ] Ordem de Precedência.
-- [ ] Captura de entrada do usuário com `input()` e conversão de tipo (Casting: `int()`).
-- [ ] Operadores de Comparação.
-  - [ ] Igualdade (`==`), Diferença (`!=`), Maior/Menor (`>`, `<`), Maior/Menor ou Igual (`>=`, `<=`).
-- [ ] Operadores Lógicos (Booleanos).
-  - [ ] `and` (E), `or` (OU), `not` (NÃO).
-  - [ ] Tabela Verdade.
-- [ ] Desvios Condicionais.
-  - [ ] Condicional Simples (`if`).
-  - [ ] Condicional Composto (`if...else`).
-  - [ ] Condicional Encadeado (`if...elif...else`).
-- [ ] Estruturas de Repetição: Laço `while`.
+- [x] Operadores de Comparação.
+  - [x] Igualdade (`==`), Diferença (`!=`), Maior/Menor (`>`, `<`), Maior/Menor ou Igual (`>=`, `<=`).
+- [x] Operadores Lógicos (Booleanos).
+  - [x] `and` (E), `or` (OU), `not` (NÃO).
+  - [x] Tabela Verdade.
+
+## 4.Estruturas de Controle
+
+
+- [x] Desvios Condicionais.
+  - [x] Condicional Simples (`if`).
+  - [x] Condicional Composto (`if...else`).
+  - [x] Condicional Encadeado (`if...elif...else`).
+- [x] Estruturas de Repetição: Laço `while`.
   - [ ] Teste lógico e condição de parada.
   - [ ] Incremento e Decremento.
   - [ ] Laços infinitos e a instrução `break`.
