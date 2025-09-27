@@ -15,4 +15,5 @@ while True:
         break  #enqunato for falso, no caso o usuario nao digitar x o loop continuar funcionando
     print(f'Bem-vindo, {nome}')
 
+
     
